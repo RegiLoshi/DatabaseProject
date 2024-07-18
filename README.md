@@ -2,7 +2,7 @@
 
 This is a School Management System built using Java and JavaFX for the GUI and SQL for database management. The system allows users to manage student information, course details, enrollment records, and messaging between users.
 
-#Features
+# Features
 
 Student Management: Add, update, delete, and view student records.
 Course Management: Add, update, delete, and view course information.
